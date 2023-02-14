@@ -1,0 +1,19 @@
+.Create>form, h1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Create>form>input {
+    margin: 0.5rem;
+}
+
+.Create>form>div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Create>form>div>input,button{
+    margin: 0.3rem;
+}
